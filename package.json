@@ -1,6 +1,7 @@
 {
   "name": "parcel_practice_2",
   "version": "1.0.0",
+  "entry": "index.html" ,
   "description": "Homework",
   "main": "main.js",
   "scripts": {
